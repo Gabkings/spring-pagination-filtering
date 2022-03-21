@@ -23,6 +23,15 @@
 
 ![image](https://user-images.githubusercontent.com/33205781/159363721-860d0680-1a1e-4003-8ec9-2e931efa03fe.png)
 
+### Packaging the Application using maven
+
+![image](https://user-images.githubusercontent.com/33205781/159365212-2a174325-c3e3-4771-9192-65ed4664833d.png)
+
+### Packaging the App using Docker 
+
+![image](https://user-images.githubusercontent.com/33205781/159365589-4b87d5f4-eb3a-4f26-9803-1a4c625b2205.png)
+
+
 
 
 
